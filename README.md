@@ -10,7 +10,7 @@
 
 
 <p align='center'>
-      <img align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/BannerGithub.gif">
+      <img align="center"><img src="https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate/blob/main/Banner/samplebanner.gif">
 </p>
 
 ### - About Me
