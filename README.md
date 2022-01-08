@@ -40,20 +40,13 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 ### - Languages and Tools I used ⚙️ ...
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-</p>
-
-<br />
-
-### - 🚧 I build with...
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<p align="center">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/aws-2.svg" alt="AWS" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/gcp.svg" alt="GCP" style="vertical-align:top margin:6px 4px">  
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
@@ -62,13 +55,6 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="KB" style="vertical-align:top; margin:4px">
 </p>
 
-### - 🔭 Tools I used...
-<p align="center">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">  
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual" style="vertical-align:top; margin:4px">
- </p>
- 
 <br />
 
 ### - 💬 Get in touch...
