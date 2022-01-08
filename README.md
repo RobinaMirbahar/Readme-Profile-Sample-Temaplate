@@ -2,8 +2,10 @@
    <h2 align="center">Hi there , Robina here <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="30" width="30"> </h2></div>
    
 <p align='center'>
-   <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">                </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <p align='center'>
+   <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin-icon-2.svg">                </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter-6.svg"></a>&nbsp;&nbsp;
+</p>
 </p>
 
 
@@ -59,9 +61,8 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 ### - 💬 Get in touch...
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
-
