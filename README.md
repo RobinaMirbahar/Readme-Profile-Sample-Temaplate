@@ -8,20 +8,38 @@
 </p>
 </p>
 
-
 <p align='center'>
       <img align="center"><img src="https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate/blob/main/Banner/samplebanner.gif">
 </p>
 
-### - About Me
+
+## 🚀 About Me
 I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
 
 
-### - Currently I'm Learning...
-- 🥀  Cloud Native and Kubernetes.
+## 🧠 I'm currently learning..
+-   Cloud Native and Kubernetes.
 
 ### - Currently Working on..
 - 🔭 Working on [SheCloud](https://github.com/SheCloud). 
+
+## Other Common Github Profile Sections you use in your Profile !
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
 
 
 ### - Skills and Experience
@@ -42,6 +60,8 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 ### - Languages and Tools I used ⚙️ ...
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+Author- [@MikeCodesDotNET](https://www.github.com/MikeCodesDotNET)
+
 
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
