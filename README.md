@@ -41,12 +41,11 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 ⚡️ Fun fact...
 
 
-
-### - Skills and Experience
+## - Skills and Experience
 - Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
 
 
-### - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
+## - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
 <br />
 
 <div align="center">
@@ -58,10 +57,9 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 </div>
 <br />   
 
-### - Languages and Tools I used ⚙️ ...
+## - Languages and Tools I used ⚙️ ...
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 Author- [@MikeCodesDotNET](https://www.github.com/MikeCodesDotNET)
-
 
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
@@ -79,7 +77,7 @@ Author- [@MikeCodesDotNET](https://www.github.com/MikeCodesDotNET)
 
 <br />
 
-### - 💬 Get in touch...
+## - 💬 Get in touch...
 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
