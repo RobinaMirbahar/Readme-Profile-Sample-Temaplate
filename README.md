@@ -82,17 +82,3 @@ Author- [@MikeCodesDotNET](https://www.github.com/MikeCodesDotNET)
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar)
-
----
-
-## Star, Fork & Sponsor This Project
-
-[![Star on GitHub](https://img.shields.io/github/stars/RobinaMirbahar/Readme-Profile-Sample-Temaplate?style=for-the-badge&logo=github&label=Star)](https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate)
-[![Fork on GitHub](https://img.shields.io/github/forks/RobinaMirbahar/Readme-Profile-Sample-Temaplate?style=for-the-badge&logo=github&label=Fork)](https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate/fork)
-[![Sponsor RobinaMirbahar](https://img.shields.io/badge/Sponsor-%40RobinaMirbahar-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/RobinaMirbahar)
-
-If this project is helpful to your work:
-* **Star this Repository:** [**Star `RobinaMirbahar/Readme-Profile-Sample-Temaplate` on GitHub**](https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate) to bookmark it and help others discover it.
-* **Fork & Customize:** [**Fork `RobinaMirbahar/Readme-Profile-Sample-Temaplate`**](https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate/fork) to build and experiment with your own workflows.
-* **Sponsor on GitHub:** [**Sponsor `@RobinaMirbahar` on GitHub Sponsors (`github.com/sponsors/RobinaMirbahar`)**](https://github.com/sponsors/RobinaMirbahar) to support future open-source [**Google (`@google`)**](https://github.com/google), [**Google Gemini (`@google-gemini`)**](https://github.com/google-gemini), [**Google DeepMind (`@google-deepmind`)**](https://github.com/google-deepmind), and [**Google Cloud (`@GoogleCloudPlatform`)**](https://github.com/GoogleCloudPlatform) cookbooks!
-
