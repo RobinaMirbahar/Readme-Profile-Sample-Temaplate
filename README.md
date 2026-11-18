@@ -30,10 +30,6 @@ flowchart TD
     A["Fork Template Repository"] --> B["Rename to <username>/<username>"]
     B --> C["Customize Bio, Tech Stack Badges & Featured Repos"]
     C --> D["Live GitHub Profile Landing Page"]
-    style A fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style B fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style C fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style D fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
 ```
 
 ---
